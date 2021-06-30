@@ -1,0 +1,36 @@
+#bd{
+    background-image: url(https://cdn.hovia.com/app/uploads/blue-white-grunge-watercolour-textures-plain-820x532.jpg);
+    background-size: cover;
+}
+#h{
+    margin-top: 350px;
+    padding-left: 800px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px
+}
+#h1{
+    margin-left: 750px;
+    font-size: 50px;
+}
+#p{
+    padding-left: 700px;
+    font-size: 25px;
+    
+}
+#p1{
+    margin-top: 150px;
+    border-style: solid;
+    border-right-style: none;
+    border-left-style: none;
+    padding-left: 780px;
+    padding-top: 20px;
+    font-size: 25px;
+    height: 200px;
+    
+}
+#p2{
+    margin-left: 780px;
+    font-size: 25px;
+}
+
+    
